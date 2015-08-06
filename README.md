@@ -1,6 +1,8 @@
 RippleEffect
 ================
 
+菜单点击的水波纹效果，类似于360安全卫士的菜单
+
 ![RippleEffect](https://github.com/traex/RippleEffect/blob/master/header.png)
 
 ExpandableLayout provides an easy way to create a view called header with an expandable view. Both view are external layout to allow a maximum of customization. [You can find a sample](https://github.com/traex/ExpandableLayout/blob/master/sample/) that how to use an ExpandableLayout to your layout.
